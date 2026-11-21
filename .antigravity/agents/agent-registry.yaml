@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-guam-canal-and-intervention-historian
-  name: Guam Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-guam-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_gu_001
+    name: Guam Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_002
+    name: Guam Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_003
+    name: Guam Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_004
+    name: Guam Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_005
+    name: Guam Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_006
+    name: Guam Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_007
+    name: Guam Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_008
+    name: Guam Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_009
+    name: Guam Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_010
+    name: Guam Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_011
+    name: Guam Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_012
+    name: Guam Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_013
+    name: Guam Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_014
+    name: Guam Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_015
+    name: Guam Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_016
+    name: Guam Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_017
+    name: Guam Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_018
+    name: Guam Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_019
+    name: Guam Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_020
+    name: Guam Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_021
+    name: Guam Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_022
+    name: Guam Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_023
+    name: Guam Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_024
+    name: Guam Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_025
+    name: Guam Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_026
+    name: Guam Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_027
+    name: Guam Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_028
+    name: Guam Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_029
+    name: Guam Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_030
+    name: Guam Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_031
+    name: Guam Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_032
+    name: Guam Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_033
+    name: Guam Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_034
+    name: Guam Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_035
+    name: Guam Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_036
+    name: Guam Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_037
+    name: Guam Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_038
+    name: Guam Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_039
+    name: Guam Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_040
+    name: Guam Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_041
+    name: Guam Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_042
+    name: Guam Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_043
+    name: Guam Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_044
+    name: Guam Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_045
+    name: Guam Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_046
+    name: Guam Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_047
+    name: Guam Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_048
+    name: Guam Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_049
+    name: Guam Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_050
+    name: Guam Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_051
+    name: Guam Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_052
+    name: Guam Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_053
+    name: Guam Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_054
+    name: Guam Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_055
+    name: Guam Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_056
+    name: Guam Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_057
+    name: Guam Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_058
+    name: Guam Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_059
+    name: Guam Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_060
+    name: Guam Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_061
+    name: Guam Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_062
+    name: Guam Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_063
+    name: Guam Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_064
+    name: Guam Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_065
+    name: Guam Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_066
+    name: Guam Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_067
+    name: Guam Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_068
+    name: Guam Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_069
+    name: Guam Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_070
+    name: Guam Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_071
+    name: Guam Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_072
+    name: Guam Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_073
+    name: Guam Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_074
+    name: Guam Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_075
+    name: Guam Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_076
+    name: Guam Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_077
+    name: Guam Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_078
+    name: Guam Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_079
+    name: Guam Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_080
+    name: Guam Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_081
+    name: Guam Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_082
+    name: Guam Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_083
+    name: Guam Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_084
+    name: Guam Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_085
+    name: Guam Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_086
+    name: Guam Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_087
+    name: Guam Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_088
+    name: Guam Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_089
+    name: Guam Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_090
+    name: Guam Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_091
+    name: Guam Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_092
+    name: Guam Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_093
+    name: Guam Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_094
+    name: Guam Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_095
+    name: Guam Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_096
+    name: Guam Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_097
+    name: Guam Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_098
+    name: Guam Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_099
+    name: Guam Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_100
+    name: Guam Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_101
+    name: Guam Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_102
+    name: Guam Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_103
+    name: Guam Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_104
+    name: Guam Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_105
+    name: Guam Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_106
+    name: Guam Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_107
+    name: Guam Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_108
+    name: Guam Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_109
+    name: Guam Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_110
+    name: Guam Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_111
+    name: Guam Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_112
+    name: Guam Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_113
+    name: Guam Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_114
+    name: Guam Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_115
+    name: Guam Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_116
+    name: Guam Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_117
+    name: Guam Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_118
+    name: Guam Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_119
+    name: Guam Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_120
+    name: Guam Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_121
+    name: Guam Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_122
+    name: Guam Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_123
+    name: Guam Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_124
+    name: Guam Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_125
+    name: Guam Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_126
+    name: Guam Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_127
+    name: Guam Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_128
+    name: Guam Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_129
+    name: Guam Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_130
+    name: Guam Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_131
+    name: Guam Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_132
+    name: Guam Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_133
+    name: Guam Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_134
+    name: Guam Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_135
+    name: Guam Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_136
+    name: Guam Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_137
+    name: Guam Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_138
+    name: Guam Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_139
+    name: Guam Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_140
+    name: Guam Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_141
+    name: Guam Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_142
+    name: Guam Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_143
+    name: Guam Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_144
+    name: Guam Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_145
+    name: Guam Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_146
+    name: Guam Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_147
+    name: Guam Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_148
+    name: Guam Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_149
+    name: Guam Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_150
+    name: Guam Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_151
+    name: Guam Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_152
+    name: Guam Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_153
+    name: Guam Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_154
+    name: Guam Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_155
+    name: Guam Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_156
+    name: Guam Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_157
+    name: Guam Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_158
+    name: Guam Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_159
+    name: Guam Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_160
+    name: Guam Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_161
+    name: Guam Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_162
+    name: Guam Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_163
+    name: Guam Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_164
+    name: Guam Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_165
+    name: Guam Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_166
+    name: Guam Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_167
+    name: Guam Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_168
+    name: Guam Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_169
+    name: Guam Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gu_170
+    name: Guam Agent 170
+    status: ACTIVE_SCAFFOLD

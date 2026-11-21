@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: guaman-restitution-roadmap-and-qsf-trust-execution
-  name: Guaman Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/guaman-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_gu_001
+    name: Guam Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_002
+    name: Guam Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_003
+    name: Guam Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_004
+    name: Guam Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_005
+    name: Guam Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_006
+    name: Guam Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_007
+    name: Guam Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_008
+    name: Guam Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_009
+    name: Guam Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_010
+    name: Guam Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_011
+    name: Guam Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_012
+    name: Guam Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_013
+    name: Guam Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_014
+    name: Guam Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_015
+    name: Guam Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_016
+    name: Guam Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_017
+    name: Guam Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_018
+    name: Guam Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_019
+    name: Guam Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_020
+    name: Guam Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_021
+    name: Guam Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_022
+    name: Guam Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_023
+    name: Guam Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_024
+    name: Guam Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_025
+    name: Guam Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_026
+    name: Guam Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_027
+    name: Guam Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_028
+    name: Guam Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_029
+    name: Guam Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_030
+    name: Guam Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_031
+    name: Guam Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_032
+    name: Guam Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_033
+    name: Guam Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_034
+    name: Guam Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_035
+    name: Guam Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_036
+    name: Guam Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_037
+    name: Guam Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_038
+    name: Guam Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_039
+    name: Guam Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_040
+    name: Guam Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_041
+    name: Guam Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_042
+    name: Guam Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_043
+    name: Guam Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_044
+    name: Guam Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_045
+    name: Guam Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_046
+    name: Guam Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_047
+    name: Guam Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_048
+    name: Guam Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_049
+    name: Guam Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_050
+    name: Guam Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_051
+    name: Guam Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_052
+    name: Guam Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_053
+    name: Guam Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_054
+    name: Guam Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_055
+    name: Guam Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_056
+    name: Guam Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_057
+    name: Guam Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_058
+    name: Guam Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_059
+    name: Guam Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_060
+    name: Guam Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_061
+    name: Guam Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_062
+    name: Guam Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_063
+    name: Guam Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_064
+    name: Guam Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_065
+    name: Guam Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_066
+    name: Guam Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_067
+    name: Guam Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_068
+    name: Guam Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_069
+    name: Guam Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_070
+    name: Guam Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_071
+    name: Guam Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_072
+    name: Guam Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_073
+    name: Guam Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_074
+    name: Guam Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_075
+    name: Guam Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_076
+    name: Guam Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_077
+    name: Guam Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_078
+    name: Guam Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_079
+    name: Guam Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_080
+    name: Guam Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_081
+    name: Guam Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_082
+    name: Guam Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_083
+    name: Guam Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_084
+    name: Guam Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_085
+    name: Guam Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_086
+    name: Guam Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_087
+    name: Guam Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_088
+    name: Guam Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_089
+    name: Guam Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_090
+    name: Guam Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_091
+    name: Guam Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_092
+    name: Guam Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_093
+    name: Guam Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_094
+    name: Guam Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_095
+    name: Guam Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_096
+    name: Guam Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_097
+    name: Guam Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_098
+    name: Guam Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_099
+    name: Guam Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_100
+    name: Guam Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_101
+    name: Guam Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_102
+    name: Guam Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_103
+    name: Guam Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_104
+    name: Guam Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_105
+    name: Guam Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_106
+    name: Guam Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_107
+    name: Guam Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_108
+    name: Guam Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_109
+    name: Guam Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_110
+    name: Guam Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_111
+    name: Guam Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_112
+    name: Guam Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_113
+    name: Guam Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_114
+    name: Guam Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_115
+    name: Guam Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_116
+    name: Guam Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_117
+    name: Guam Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_118
+    name: Guam Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_119
+    name: Guam Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_120
+    name: Guam Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_121
+    name: Guam Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_122
+    name: Guam Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_123
+    name: Guam Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_124
+    name: Guam Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_125
+    name: Guam Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_126
+    name: Guam Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_127
+    name: Guam Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_128
+    name: Guam Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_129
+    name: Guam Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_130
+    name: Guam Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_131
+    name: Guam Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_132
+    name: Guam Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_133
+    name: Guam Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_134
+    name: Guam Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_135
+    name: Guam Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_136
+    name: Guam Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_137
+    name: Guam Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_138
+    name: Guam Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_139
+    name: Guam Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_140
+    name: Guam Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_141
+    name: Guam Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_142
+    name: Guam Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_143
+    name: Guam Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_144
+    name: Guam Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_145
+    name: Guam Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_146
+    name: Guam Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_147
+    name: Guam Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_148
+    name: Guam Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_149
+    name: Guam Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_150
+    name: Guam Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_151
+    name: Guam Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_152
+    name: Guam Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_153
+    name: Guam Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_154
+    name: Guam Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_155
+    name: Guam Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_156
+    name: Guam Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_157
+    name: Guam Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_158
+    name: Guam Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_159
+    name: Guam Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_160
+    name: Guam Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_161
+    name: Guam Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_162
+    name: Guam Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_163
+    name: Guam Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_164
+    name: Guam Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_165
+    name: Guam Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_166
+    name: Guam Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_167
+    name: Guam Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_168
+    name: Guam Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_169
+    name: Guam Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_170
+    name: Guam Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_171
+    name: Guam Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_172
+    name: Guam Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_173
+    name: Guam Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_174
+    name: Guam Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_175
+    name: Guam Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_176
+    name: Guam Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_177
+    name: Guam Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_178
+    name: Guam Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_179
+    name: Guam Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_180
+    name: Guam Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_181
+    name: Guam Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_182
+    name: Guam Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_183
+    name: Guam Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_184
+    name: Guam Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_185
+    name: Guam Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_186
+    name: Guam Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_187
+    name: Guam Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_188
+    name: Guam Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_189
+    name: Guam Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_190
+    name: Guam Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_191
+    name: Guam Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_192
+    name: Guam Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_193
+    name: Guam Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_194
+    name: Guam Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_195
+    name: Guam Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_196
+    name: Guam Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_197
+    name: Guam Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_198
+    name: Guam Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_199
+    name: Guam Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_200
+    name: Guam Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_201
+    name: Guam Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_202
+    name: Guam Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_203
+    name: Guam Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_204
+    name: Guam Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_205
+    name: Guam Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_206
+    name: Guam Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_207
+    name: Guam Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_208
+    name: Guam Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_209
+    name: Guam Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_210
+    name: Guam Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_211
+    name: Guam Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_212
+    name: Guam Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_213
+    name: Guam Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_214
+    name: Guam Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_215
+    name: Guam Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_216
+    name: Guam Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_217
+    name: Guam Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_218
+    name: Guam Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_219
+    name: Guam Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_220
+    name: Guam Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_221
+    name: Guam Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_222
+    name: Guam Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_223
+    name: Guam Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_224
+    name: Guam Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_225
+    name: Guam Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_226
+    name: Guam Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_227
+    name: Guam Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_228
+    name: Guam Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_229
+    name: Guam Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_230
+    name: Guam Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_231
+    name: Guam Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_232
+    name: Guam Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_233
+    name: Guam Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_234
+    name: Guam Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_235
+    name: Guam Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_236
+    name: Guam Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_237
+    name: Guam Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_238
+    name: Guam Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_239
+    name: Guam Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_240
+    name: Guam Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_241
+    name: Guam Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_242
+    name: Guam Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_243
+    name: Guam Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_244
+    name: Guam Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_245
+    name: Guam Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_246
+    name: Guam Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_247
+    name: Guam Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_248
+    name: Guam Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_249
+    name: Guam Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_250
+    name: Guam Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_251
+    name: Guam Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gu_252
+    name: Guam Skill 252
+    status: ACTIVE_SCAFFOLD
