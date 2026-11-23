@@ -35,6 +35,10 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-23 | US_National_Archives_-_Guam.html | https://www.archives.gov/research/guide-fed-records/groups/313.html | OpenCode/harvest | 3a5eb03a13061a6263d06b6b827b05427f6a672f3799199231b4848bfbda1e1d | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=79272 final_url=https://www.archives.gov/research/guide-fed-records/groups/313.html |
+
+| 2026-11-23 | DOI_Office_of_Insular_Affairs.html | https://www.doi.gov/oia/islands/guam | OpenCode/harvest | 86c78f9e62e0f1f5c98aeba356db4101921ccd6e11360604764443e0beb4aa4e | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=60337 final_url=https://www.doi.gov/oia/islands/guam |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
