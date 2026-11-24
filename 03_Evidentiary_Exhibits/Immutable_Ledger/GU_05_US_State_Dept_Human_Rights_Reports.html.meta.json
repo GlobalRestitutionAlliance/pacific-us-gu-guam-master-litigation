@@ -28,10 +28,5 @@
     "X-Cache": "Hit from cloudfront",
     "X-Amz-Cf-Pop": "MIA50-P5",
     "X-Amz-Cf-Id": "ODK0r0KGXKxWOLWCDlC2oOyQqXhcz70fHwFmHrPzIxk5LUKu8U3Buw=="
-  },
-  "http_status": 200,
-  "fetched_at": "2026-11-21T22:06:39.227001Z",
-  "substantive": true,
-  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
-  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+  }
 }
